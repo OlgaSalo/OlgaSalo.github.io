@@ -1,4 +1,4 @@
-let min = 3;
+let min = document.querySelector('input[name="min"]');;
 let max = document.querySelector('input[name="max"]');
 
 let getRandom = document.querySelector('input[name="max"]');
